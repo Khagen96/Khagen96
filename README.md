@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Statck Dev.
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Open source and Community
-- 📫 How to reach me khagen.1996.borah@gmail.com 
+- 📫 How to reach me khagen998@gmail.com 
 
 <!---
 Khagen96/Khagen96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
